@@ -1,31 +1,47 @@
+<!-- Top Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Business%20×%20Data%20×%20Curiosity&fontSize=32&fontColor=ffffff" />
+</p>
+
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-I like breaking real-world business problems into data, logic, and better decisions.
+I enjoy breaking real-world business problems into data, logic, and better decisions.
 </p>
 
 ---
 
-### 🚀 What I’m Up To
+## 🚀 What I’m Exploring
 
-- 🔭 Building my **business thinking & data analytics skills** through real-world scenarios and mini projects  
-- 🌱 Learning **Advanced SQL, Python for analytics, ERP systems, and Power BI**  
-- 👯 Open to collaborating on **data & business analysis projects, case studies, and logic-heavy problems**  
-- 🤔 Improving how I **write clean queries and connect data with business meaning**  
-- 💬 Ask me about **business logic, SQL thinking, analytics questions, or problem-solving approaches**  
+- 🔭 Sharpening my **business thinking & data analytics skills** through real-world scenarios and mini projects  
+- 🌱 Learning **Advanced SQL, Python for analytics, ERP systems, Power BI, and Excel**  
+- 👯 Open to collaborating on **data & business analysis projects, case studies, and logic-driven problem solving**  
+- 🤔 Focused on writing **cleaner queries and understanding the “why” behind business data**  
+- 💬 Ask me about **business logic, SQL thinking, analytics questions, or problem breakdowns**  
 - 📫 Reach me via **GitHub Discussions**  
-- ⚡ Fun fact: I’m always hunting for real-world business improvement ideas and figuring out how data can make them better  
+- ⚡ Fun fact: I constantly hunt for real-world business improvement ideas and think about how data can make them better  
 
 ---
 
-### 🧠 Tools I’m Working With
+## 🧠 Tools & Skills I’m Building
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,python,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,python,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ERP-Business%20Systems-4A90E2?style=for-the-badge"/>
 </p>
 
 ---
 
-<p align="center">
-  <i>Curious mind. Practical data. Better business questions.</i>
-</p>
+## 📂 What You’ll Find Here
+
+```text
+• SQL logic problems (easy → hard)
+• Business analytics case studies
+• Real-world data scenarios
+• Power BI & Excel analysis work
+• Practical thinking, not just theory
