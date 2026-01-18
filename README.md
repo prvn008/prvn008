@@ -42,6 +42,12 @@
   <img src="https://img.shields.io/badge/Total%20Files-Working...-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+### 🎯 Mission Brief
+| Domain | Focus | Tools |
+| :--- | :--- | :--- |
+| **Business Analytics** | Translating 📊 into 💰 | Python, ERP |
+| **Data Engineering** | Clean, optimized pipelines | SQL, PostgreSQL |
+| **Visualization** | Storytelling through Dashboards | Power BI, Excel |
 
 
 
